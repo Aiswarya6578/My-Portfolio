@@ -39,7 +39,7 @@ const Contact = () => {
             <FaFacebook />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://x.com/home"
             target="_blank"
             rel="noopener noreferrer"
             className="text-3xl hover:text-gray-600 transition-all"
